@@ -1,0 +1,2 @@
+model_checkpoint_path: "EQTP.ckpt"
+all_model_checkpoint_paths: "EQTP.ckpt"
